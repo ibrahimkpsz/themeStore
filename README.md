@@ -19,6 +19,7 @@ Projenin geliştirilmesinde, aşağıdaki teknolojiler kullanılmıştır:
 
 Projeyi yerel bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
+https://github.com/ibrahimkpsz/themeStore.git
 
 ## Katkıda Bulunma
 
