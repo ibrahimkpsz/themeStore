@@ -2,6 +2,8 @@
 
 Bu proje, ücretsiz olarak kullanabileceğiniz HTML, CSS ve JavaScript temaları içeren bir web sitesi örneğidir. Proje, Bootstrap çerçevesi kullanılarak geliştirilmiştir.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59f2d4fb-8861-4573-9d7b-b8cb920760bf/deploy-status)](https://app.netlify.com/sites/theme-store/deploys)
+
 ## Temalar
 
 Sitede, birçok farklı kategoriye göre sınıflandırılmış çok sayıda tema bulunmaktadır. Temaların her biri, açıklamaları, ekran görüntüleri ve canlı önizleme bağlantıları ile birlikte sunulmaktadır. Ayrıca, tema dosyalarını indirebilir ve kendi projenizde kullanabilirsiniz.
