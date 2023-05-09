@@ -1,0 +1,260 @@
+@font-face {
+    font-family: "Campton Black";
+    src: url("/fonts/Campton-Black.woff2");
+}
+
+@font-face {
+    font-family: "Campton Medium";
+    src: url("/fonts/Campton-Medium.woff2");
+}
+
+@font-face {
+    font-family: "Campton Semibold";
+    src: url("/fonts/Campton-SemiBold.woff2");
+}
+
+@font-face {
+    font-family: "Campton Light";
+    src: url("/fonts/Campton-Light.woff2");
+}
+
+@font-face {
+    font-family: "Campton Extra Light Italic";
+    src: url("/fonts/Campton-ExtraLightItalic.woff2");
+}
+
+@font-face {
+    font-family: "Campton Extra Light";
+    src: url("/fonts/Campton-ExtraLight.woff2");
+}
+
+@font-face {
+    font-family: "Campton Bold";
+    src: url("/fonts/Campton-Bold.woff2");
+}
+
+* {
+    box-sizing: border-box !important;
+}
+
+::selection {
+    background-color: #000;
+    color: #fff;
+}
+
+.red500 {
+    color: rgb(241, 57, 57) !important;
+}
+
+.dark {
+    background-color: #343a40b9 !important;
+}
+
+/* Navbar CSS */
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.nav-link:hover {
+    color: rgb(239, 68, 68) !important;
+}
+
+.nav-link {
+    font-family: 'Campton Light', sans-serif;
+}
+
+#brand {
+    font-family: 'Campton Bold', sans-serif;
+
+}
+
+#darkBtn {
+    font-family: 'Campton Light', sans-serif;
+}
+
+/* Main Container CSS */
+
+#mainContainer {
+    padding: 150px 0 200px 0;
+    height: auto;
+}
+
+#mainTextBox h1 {
+    font-family: 'Campton Bold', sans-serif;
+    font-size: 60px;
+}
+
+#mainTextBox p {
+    font-family: 'Campton Light', sans-serif;
+    line-height: 27px;
+}
+
+#mainBtn {
+    font-family: 'Campton Semibold', sans-serif;
+}
+
+@keyframes scrollDown {
+    0% {
+        transform: translateY(0);
+    }
+
+    20% {
+        transform: translateY(20px);
+    }
+
+    50% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+#mainImg {
+    animation: scrollDown 2.5s cubic-bezier(0.55, 0, 0.45, 1) infinite;
+}
+
+/* Hero Section CSS */
+
+#heroSection {
+    background-color: #f2f2f23f;
+    height: auto;
+    padding: 200px 0 200px 0;
+}
+
+#heroTextBox h3 {
+    font-family: 'Campton Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+#heroTextBox p {
+    font-family: 'Campton Light', sans-serif;
+    line-height: 27px;
+}
+
+#heroImg {
+    animation: scrollDown 2.5s cubic-bezier(0.55, 0, 0.45, 1) infinite;
+}
+
+/* Themes Container CSS */
+
+#themesContainer {
+    padding: 120px 0 100px 0;
+    height: auto;
+}
+
+#themesTextBox {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.filterBtn {
+    font-family: 'Campton Light', sans-serif !important;
+}
+
+.themesTitle {
+    font-family: 'Campton Bold', sans-serif;
+    margin-bottom: 10px;
+}
+
+.themesText {
+    font-family: 'Campton Light', sans-serif;
+}
+
+.card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card:hover {
+    scale: 1.05;
+    transition: .2s ease-in;
+}
+
+.card .card-title {
+    font-family: 'Campton Semibold', sans-serif;
+}
+
+#themesContainer a {
+    font-family: 'Campton Light', sans-serif;
+}
+
+/* Blog Container CSS 
+
+#blogContainer {
+    height: 800px;
+    background-color: #F2F2F2;
+} 
+
+*/
+
+/* Get Started CSS */
+
+#getStartedContainer {
+    height: 500px;
+}
+
+#getStartedTextBox {
+    text-align: center;
+}
+
+#getStartedTextBox a {
+    font-family: 'Campton Light', sans-serif;
+}
+
+.getStartedTitle {
+    font-family: 'Campton Semibold', sans-serif;
+    margin-bottom: 25px;
+}
+
+.getStartedText {
+    font-family: 'Campton Light', sans-serif;
+    margin-bottom: 20px;
+}
+
+/* Footer CSS */
+
+.copyText {
+    font-family: 'Campton Light';
+}
+
+
+/* ------------------- Contact Form CSS --------------------- */
+
+#contactTextBox h1 {
+    font-family: 'Campton Bold', sans-serif;
+}
+
+#contactTextBox h3 {
+    font-family: 'Campton Medium', sans-serif;
+}
+
+
+#contactTextBox p {
+    font-family: 'Campton Light', sans-serif;
+}
+
+#nameInput,
+#emailInput,
+#messageBox {
+    border: 0;
+    background-color: #F7F7F7;
+    padding: 10px;
+    margin: 20px 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+}
+
+label {
+    font-family: 'Campton Light', sans-serif;
+}
+
+#moreBtn {
+    font-family: 'Campton Light', sans-serif;
+}

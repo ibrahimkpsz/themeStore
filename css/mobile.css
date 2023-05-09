@@ -1,0 +1,23 @@
+@media only screen and (max-width: 992px) {
+    body {
+        text-align: center !important;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    #mainTextBox h1 {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 408px) {
+    #mainTextBox h1 {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 378px) {
+    #mainTextBox h1 {
+        font-size: 36px;
+    }
+}

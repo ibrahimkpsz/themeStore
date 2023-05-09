@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Divi",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Landing Page"
+    },
+    {
+        "title": "Uncode",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "ECommerce"
+    },
+    {
+        "title": "X Theme",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Landing Page"
+    },
+    {
+        "title": "Oshine",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Magazine"
+    },
+    {
+        "title": "H-Code",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Photography"
+    },
+    {
+        "title": "Brooklyn",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Restaurant"
+    },
+    {
+        "title": "Salient",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Creative"
+    },
+    {
+        "title": "Enfold",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Video"
+    },
+    {
+        "title": "TheGem",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "One-Page"
+    },
+    {
+        "title": "Kallyas",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Health"
+    },
+    {
+        "title": "Pofo",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Sports"
+    },
+    {
+        "title": "Aoki",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Technology"
+    },
+    {
+        "title": "Bridge",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Landing Page"
+    },
+    {
+        "title": "Jevelin",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Portfolio"
+    },
+    {
+        "title": "Composer",
+        "img": "/img/card.png",
+        "downloadURL": "https://google.com/",
+        "livePreview": "https://google.com/",
+        "category": "Business"
+    }
+]
